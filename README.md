@@ -6,4 +6,4 @@ Este repositorio contiene los ejercicios de repaso de bases de datos para la mat
 - **Instituto**: modelo E-R, script de creación, datos de prueba.
 - **Tienda**: modelo E-R, script de creación, datos de prueba y consultas.
 
-Autores: Sebastián Vallejo Gilon, William Steven Anacona
+Autores: Sebastián Vallejo Gilon, William Steven Anacona, Juan Diego Fernandez Paz, Eduar Ruiz Gomez, Juliana Chantre Astudillo
